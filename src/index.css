@@ -1,0 +1,61 @@
+@import "tailwindcss";
+
+@theme {
+      --font-nunito: 'Nunito Sans', sans-serif;
+      --font-unbounded: "Unbounded", sans-serif;
+      --color-purple: #8181FF;
+}
+
+body {
+      background: #0D0504;
+      overflow-x: hidden;
+}
+
+button {
+      cursor: pointer;
+}
+
+button:active {
+      transform: scale(0.9) !important;
+      transition: 300ms;
+}
+
+
+@media (min-width:768px) {
+      button:hover {
+            opacity: 90%;
+            transition: 300ms;
+      }
+}
+
+.container {
+      max-width: 1280px;
+      margin-left: auto;
+      margin-right: auto;
+      width: 88%;
+}
+
+main {
+      background: url("./Assets/Images/MainBg.png") no-repeat center / cover;
+      background-attachment: fixed;
+      height: 480px;
+}
+
+.bg-img {
+      background: url("./Assets/Images/MainBg.png") no-repeat center / cover;
+      height: 100%;
+}
+
+.PhoneInputCountrySelect {
+      color: black !important;
+}
+
+.custom-phone-input input {
+      color: white !important;
+}
+
+.custom-phone-input input {
+      outline: none !important;
+      border: none !important;
+      box-shadow: none !important;
+}
