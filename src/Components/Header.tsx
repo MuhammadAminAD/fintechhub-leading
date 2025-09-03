@@ -17,7 +17,8 @@ export default function Header() {
                   <div data-aos="fade-left">
                         <p className='font-nunito text-[20px] leading-[150%] text-white max-xl:mt-5'>Buni quyidagi 10 daqiqalik videoni ko'rsangiz tushunib olasiz.</p>
                         <div className='py-8'>
-                              <iframe className='w-full xl:w-[268px] h-[175px] md:h-[300px] xl:h-[171px]' src="https://www.youtube.com/embed/Vm-ikr8Ee5w?si=Zs0CFDEbvXljOX4X" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+                              <iframe className='w-full xl:w-[268px] h-[175px] md:h-[300px] xl:h-[171px]' src="https://www.youtube.com/embed/jD6IDd6i86M?si=5eOm2xgdaFkKaUDS" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+
                         </div>
                         <div className='flex gap-3 max-md:flex-col'>
                               <button className={`${styles.redBtn} max-md:w-full`} onClick={() => setFormModal(true)}>
