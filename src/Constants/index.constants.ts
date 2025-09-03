@@ -12,10 +12,10 @@ import CT3 from "../Assets/Icons/ri_instagram-line.svg";
 
 
 export const AboutUs = [
-      { id: 0, Icon: AU6, title: "Senior darajadagi ustozlar", text: "Kasbni real mutaxassislardan o’rganasiz", span: "Senior" },
-      { id: 1, Icon: AU1, title: "Qo'shimcha support ustozlar", text: "Agar biror-narsani tushunmagan bo’lsangiz, support-ustozlarimiz sizga doim yordam berishga tayyor!", span: "support" },
-      { id: 2, Icon: AU2, title: "Guruhda o'quvchilar soni 12 tadan oshmaydi", text: "O'quvchi kamligi hisobiga, har bir o’quvchiga alohida etibor beriladi", span: "12" },
-      { id: 3, Icon: AU3, title: "Real loyihalarda amaliyot qilish imkoniyati", text: "O’rgangan bilimlaringizni, real lohihalarda ishlatib, mustahkam qilib olasiz", span: "Real loyihalarda" },
+      { id: 0, Icon: AU6, title: "Senior darajadagi ustozlar", text: "Kasbni haqiqiy mutaxassislardan o’rganasiz", span: "Senior" },
+      { id: 1, Icon: AU1, title: "Qo'shimcha support ustozlar", text: "Agar biror narsani tushunmagan bo’lsangiz, support ustozlarimiz sizga doim yordam berishga tayyor!", span: "support" },
+      { id: 2, Icon: AU2, title: "Guruhda o'quvchilar soni 12 tadan oshmaydi", text: "O'quvchi kamligi hisobiga, har bir o’quvchiga alohida e’tibor beriladi", span: "12" },
+      { id: 3, Icon: AU3, title: "Real loyihalarda amaliyot qilish imkoniyati", text: "O’rgangan bilimlaringizni real lohihalarda ishlatib, mustahkam qilib olasiz", span: "Real loyihalarda" },
       { id: 4, Icon: AU4, title: "Har bir o'quvchi eng kamida 10 ta demo loyiha yaratadi", text: "Demo loyihalar sizga ishga kirishda yordam beradi", span: "10 ta" },
       { id: 5, Icon: AU5, title: "Har bir o'quvchi eng kamida 2 ta kitob o'qib, taqdimot qilib beradi", text: "Kitob - ongimizni, mantiqiy fikrlashimizni oshirishga yordam beradi", span: "2 ta kitob" },
 ]
